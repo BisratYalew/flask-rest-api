@@ -6,11 +6,11 @@ This program shows how to set up a flaskrestapi with postgres_db, blueprint, sql
 ### Clone the repo
 
 ```$ git clone https://github.com/bisratyalew/flask-rest-api.git```
-```$ cd flask-api-example```
+```$ cd flask-rest-api```
 
 ### Create the virtualenv
 
-```$ mkvirtualenv flask-api-example```
+```$ mkvirtualenv flask-rest-api```
 
 ### Install dependencies
 
