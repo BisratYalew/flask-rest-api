@@ -1,5 +1,5 @@
 # Flask Rest API
-This program shows how to set up a flaskrestapi with postgres_db, blueprint, sqlalchemy, marshmallow, wsgi, unittests
+This program shows how to set up a flaskrestapi with postgre db, blueprint, sqlalchemy, marshmallow, wsgi, unittests
 
 # Install guide
 
