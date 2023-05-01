@@ -1,5 +1,5 @@
 ## Requirements to install
-flask==1.0.0
+flask==2.3.2
 flask-io==1.10.0
 flask-migrate==1.7.0
 flask-script==2.0.5
